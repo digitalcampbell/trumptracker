@@ -31,7 +31,7 @@ statuses:
         icon: handshake-o
 
 promises:
-
+    -
         title: 'Yet another broken promise'
         status: Broken
         category: First 100 Days
